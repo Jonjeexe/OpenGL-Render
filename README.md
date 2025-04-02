@@ -40,7 +40,7 @@ This Magisk module optimizes **OpenGL ES** settings for smoother gameplay, lower
 ---
 
 ## 📥 Download
-🖇️ **[Download the Latest Version](https://your-download-link.com)**  
+🖇️ **[Download the Latest Version](https://Seturl.in/OpenGL-ES-1-0-initial-release)**  
 
 ---
 
