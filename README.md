@@ -2,7 +2,10 @@
 
 # OpenGL Performance Booster - Magisk Module  
 
-![GX BOOSTER](https://your-image-link.com/banner.png)
+![GX BOOSTER](https://img.shields.io/badge/Magisk-Module-green?style=for-the-badge)  
+
+**Author:** Jonje exe  
+**Version:** 1.0 Initial release 
 
 🚀 **Unlock the True Potential of OpenGL on Android** 🚀  
 
@@ -60,4 +63,22 @@ This module tweaks OpenGL ES settings at the system level by modifying **`/syste
 💡 **Like this project?** Consider giving it a ⭐ on GitHub!
 
 ---
+
+## License
+
+> OpenGL ES is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
+
+
+---
+
+<p align="center">
+  <a href="https://t.me/GXBOOST"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
+  <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
+  <br/>
+<p align="center">
+ OpenGL ES© 2025-2026
+</p>
+
 
